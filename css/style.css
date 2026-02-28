@@ -1,0 +1,48 @@
+/* CSS STYLE */
+
+html {
+    /* padding : .5em; */
+    font-size : 100%;
+    width : 100%;
+    height : 100%;
+    overflow: hidden; /*hide scrollbars*/
+}
+
+body {
+    width : 100%;
+    height : 100%;
+}
+
+fieldset {
+    /* display : inline-block;
+    vertical-align: top;
+    padding : .5em;
+    width: 15%; */
+}
+
+fieldset > * {
+    /* display : block;
+    padding : .5em; */
+}
+
+/* BLACK CANVAS max size no scroller*/
+canvas {
+    background : #AAA;
+}
+
+/* BLACK CANVAS with border max size no scroller*/
+/* canvas {
+    background : #000;
+    border: 1px solid #666;
+} */
+
+/* WALLPAPER CANVAS max size no scroller*/
+/* canvas {
+    display : inline-block;
+    background : url("../../IMAGES_SOURCE/paper003.jpg") center;
+    width: auto;
+    background: url("../../IMAGES_SOURCE/fabrik001.jpeg") center;
+    background : url("../../IMAGES_SOURCE/wood001.jpg");
+    background-size: cover;
+
+} */
