@@ -4,7 +4,7 @@
 
 Conway game of life with javascript.
 
-If nothing appens when index.html is loaded, check `./js/script.js`
+If nothing happens when index.html is loaded, check `./js/script.js`
 
 At line 18, see:
 ```javascript
